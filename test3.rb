@@ -1,8 +1,11 @@
 class Test3
 
-  def method1
+  def method3
   end
 
-  def method2
+  def method4
+  end
+
+  def method5
   end
 end
