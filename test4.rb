@@ -1,5 +1,6 @@
-def bar
+def self.bar(a, *)
 end
 
-def baz(x, y, z)
+def bar(x, y, z)
+  puts "hello"
 end
