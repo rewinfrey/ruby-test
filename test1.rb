@@ -1,4 +1,4 @@
-class Test2
+class Test3
   def initialize
   end
 
