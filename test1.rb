@@ -11,6 +11,7 @@ class Test1
       end
     end
     other_method
+    puts "hello"
   end
 
   def method2
