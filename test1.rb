@@ -4,6 +4,13 @@ class Test1
 
   def method1
     method2
+    def other_method
+      class << self
+        class NestedClass
+        end
+      end
+    end
+    other_method
   end
 
   def method2
