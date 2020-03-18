@@ -9,6 +9,7 @@ class Test1
   def method2
     method1
   end
+  
 
   def self.yolo
     new
