@@ -4,3 +4,7 @@ end
 
 def baz(x, y, z)
 end
+
+def foo
+  bar
+end
