@@ -4,6 +4,7 @@ class Example
     puts "yo"
   end
   
+  
   def test2
     test1
   end
