@@ -12,3 +12,7 @@ end
 def foo2
   foo
 end
+
+def foo3
+  foo2
+end
