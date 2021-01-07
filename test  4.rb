@@ -8,3 +8,7 @@ end
 def foo
   bar
 end
+
+def foo2
+  foo
+end
